@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CouZ1337
+- 👀 I’m interested in lua scripting
+- 🌱 I’m currently learning it
